@@ -1,5 +1,5 @@
 # CovidIdentifier 
-## 1. Circular Arrays (ArrayDeque.java file)
+## 1. Python ML project
 
 Details:
 - This code trains on a different corpus depending on the need for the demo. My last demo was about covid, I have included a video to show how the code works without having to pickle the trained model as it shows how the code works. 
